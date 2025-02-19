@@ -1,10 +1,4 @@
 {
-<<<<<<< HEAD
-  "devDependencies": {
-    "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.31",
-    "tailwindcss": "^3.3.5"
-=======
   "name": "currency_converter",
   "private": true,
   "version": "0.0.0",
@@ -31,6 +25,5 @@
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.5",
     "vite": "^4.4.5"
->>>>>>> 35af7ae (Normalize line endings)
   }
 }
