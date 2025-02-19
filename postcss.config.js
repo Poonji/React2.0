@@ -1,10 +1,7 @@
-<<<<<<< HEAD
+// Clean content of postcss.config.js file
 module.exports = {
-=======
-export default {
->>>>>>> 35af7ae (Normalize line endings)
   plugins: {
     tailwindcss: {},
     autoprefixer: {},
-  },
-}
+  }
+};
